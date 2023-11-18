@@ -114,6 +114,7 @@
     "schematicCollections": [
       "@angular-eslint/schematics",
       "@angular-eslit/schematics"
-    ]
+    ],
+    "analytics": false
   }
 }
